@@ -18,7 +18,7 @@ Each problem links to:
 ---
 
 ### 🔴 Hard
-*(Coming soon...)*
+- [Maximum Fruits Harvested After at Most k steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/) → [Solution](hard/LC2016_MaxFruits.java)
 
 ---
 
