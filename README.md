@@ -14,7 +14,7 @@ Each problem links to:
 
 ### 🟡 Medium
 - [Minimum Cost to Make Arrays Equal](https://leetcode.com/problems/rearranging-fruits/) → [Solution](medium/Rearranging.java)
-
+- [Fruits Into Basket (Max Number You Can Pick)](https://leetcode.com/problems/fruit-into-baskets/) → [Solution](medium/BasketFruits.java)
 ---
 
 ### 🔴 Hard
