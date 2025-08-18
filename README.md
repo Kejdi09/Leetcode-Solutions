@@ -14,11 +14,11 @@ Each problem links to:
 ---
 
 ### 🟡 Medium
-- [Minimum Cost to Make Arrays Equal](https://leetcode.com/problems/rearranging-fruits/) → [Solution](medium/Rearranging_fruits.java)
 - [Fruits Into Basket (Max Number You Can Pick)](https://leetcode.com/problems/fruit-into-baskets/) → [Solution](medium/BasketFruits.java)
 ---
 
 ### 🔴 Hard
+- [Minimum Cost to Make Arrays Equal](https://leetcode.com/problems/rearranging-fruits/) → [Solution](hard/Rearranging_fruits.java)
 - [Maximum Fruits Harvested After at Most k steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/) → [Solution](hard/LC2016_MaxFruits.java)
 
 ---
